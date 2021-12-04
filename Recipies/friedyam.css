@@ -1,0 +1,10 @@
+.flex.container.one {
+    background: cadetblue;
+    color: red;
+    text-align: center;
+    font-family: cursive;
+    font-size: larger;
+}
+img{
+    width: 200px;height: auto;
+}

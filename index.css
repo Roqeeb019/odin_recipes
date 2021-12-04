@@ -1,0 +1,15 @@
+button{
+font-size: large;font-style: italic;
+}
+
+.flex-container{
+  margin:20px;
+  background: yellow;
+  border: 30px black;
+  padding: 22px ;
+  height: 1cm;
+}
+
+.back {
+  background-color: pink;
+}
